@@ -1,0 +1,64 @@
+Road-map
+Python road-map to take you from complete beginner to advanced (machine learning):
+
+Beginner
+Data Types - Lists, Strings, Tuples, Sets, Floats, Ints, Booleans, Dictionaries
+
+Control Flow/Looping - for loops, while loops, if/elif/else
+
+Arithmetic and expressions
+
+I/O (Input/Output) - Sys module, Standard input/output, reading/writing files  
+
+Functions
+
+Exceptions and Error Handling
+
+Basics of object oriented programming (OOP)
+
+Intermediate
+Recursion
+
+More advanced OOP - Inheritance, Polymorphism, Encapsulation
+
+Data Structures - Linked lists, Stacks, Queues, Binary Search Trees, AVL Trees, Graphs, Minimum Spanning Trees, Hash Maps
+
+Algorithms - Linear Search, Binary Search, Hashing, Quicksort, Insertion/Selection Sort, Merge Sort, Radix Sort, Depth First Search, Breathe First Search, Prim's Algorithm, Dijkstra's Algorithm.
+
+Algorithmic Complexity
+
+Advanced - A.I. / Machine Learning & Advanced Search Techniques
+Brute Force search
+
+Heuristic search (Manhattan Distance, Admissible and Informed Heuristics)
+
+Hill Climbing
+
+Simulated Annealing
+
+A* search
+
+Adversarial Search (Minimax & Alpha-Beta pruning)
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Genetic Algorithms
+
+Artificial Neural Networks
+
+Backpropagation
+
+Natural Language Processing
+
+Convolutional Neural Networks
+
+Recurrent Neural Networks
+
+Generative Adversarial Networks
+
+
+
+
+
